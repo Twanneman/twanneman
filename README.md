@@ -1,7 +1,11 @@
-Company: Studio Twanneman.nl<br />
+Company : Studio Twanneman<br />
+<br />
 Location: Tilburg, North-Brabant, The Netherlands, Earth, Milky Way, Virgo Supercluster<br />
+<br />
 Email: <a href="mailto:info@twanneman.nl?subject=I clicked this link on your github profile&body=Hi,I found your Github profile and wanted to get in touch with you because..." target="_blank">info@twanneman.nl</a><br />
+<br />
 Website: <a href="https://twanneman.nl" title="Studio Twanneman" class="Link--primary" target="_blank">Twanneman.nl</a><br />
+<br />
 Twitter: <a rel="nofollow me" class="Link--primary" href="https://twitter.com/Twanneman">@Twanneman</a>
 
 <!--
