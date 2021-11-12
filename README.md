@@ -8,11 +8,13 @@ Email:<br />
 <a href="mailto:info@twanneman.nl?subject=I clicked this link on your github profile&body=Hi,I found your Github profile and wanted to get in touch with you because..." target="_blank">info@twanneman.nl</a><br />
 <br />
 Website:<br />
-<a href="https://twanneman.nl" title="Studio Twanneman" class="Link--primary" target="_blank">Twanneman.nl</a><br />
+<a href="https://twanneman.nl" title="Studio Twanneman" target="_blank">Twanneman.nl</a><br />
 <br />
 Twitter:<br />
-<a rel="nofollow me" class="Link--primary" href="https://twitter.com/Twanneman">@Twanneman</a>
-
+<a rel="nofollow me" href="https://twitter.com/Twanneman">@Twanneman</a><br />
+<br />
+GitHub.io:<br />
+<a rel="nofollow me" href="https://twanneman.github.io/">twanneman.github.io</a><br />
 <!--
 Widgets 
 <a href="https://github.com/anuraghazra/github-readme-stats">
